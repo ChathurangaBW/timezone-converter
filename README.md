@@ -18,7 +18,7 @@ This is a simple application that allows you to convert a given UTC (Coordinated
 - pytz library
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/timezone-converter.git`
+1. Clone the repository: `git clone https://github.com/nicksniffer/timezone-converter.git`
 2. Install the required dependencies: `pip install pytz`
 3. Run the application: `python converter.py`
 
