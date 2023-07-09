@@ -8,7 +8,7 @@ This is a simple application that allows you to convert a given UTC (Coordinated
 - User-friendly interface
 
 ## Usage
-1. Enter the UTC datetime in the specified format (d-Mon-yyyy H:M:S - 8-Jul-2023 3:43:40).
+1. Enter the UTC datetime in the specified format (d-Mon-yyyy H:M:S) Example Format (8-Jul-2023 3:43:40).
 2. Click the "Convert" button to perform the conversions.
 3. The converted datetimes will be displayed for PST, IST, and AEST.
 4. Click the respective "Copy" button to copy each result to the clipboard.
